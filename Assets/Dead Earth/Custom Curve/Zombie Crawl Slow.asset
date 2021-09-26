@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c82fe0481d8e9af4eb30bc13252019d8, type: 3}
+  m_Name: Zombie Crawl Slow
+  m_EditorClassIdentifier: 
+  _curve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.0064086774
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.029241659
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.03289962
+      value: 0
+      inSlope: -0.15616417
+      outSlope: -0.15616417
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.075099066
+      value: 0
+      inSlope: -0.13822225
+      outSlope: -0.13822225
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.08885127
+      value: 1
+      inSlope: -0.1312839
+      outSlope: -0.1312839
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.124512136
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.12818527
+      value: 0
+      inSlope: -0.08940697
+      outSlope: -0.08940697
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.19
+      value: 0
+      inSlope: -0.068265945
+      outSlope: -0.068265945
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.2014594
+      value: 1
+      inSlope: -0.06444491
+      outSlope: -0.06444491
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.22700185
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.2353302
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.37
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.38
+      value: 1
+      inSlope: -1.2940168
+      outSlope: -1.2940168
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.40238482
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.4231953
+      value: 0
+      inSlope: -0.3373623
+      outSlope: -0.3373623
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.49361986
+      value: 0
+      inSlope: -0.1876615
+      outSlope: -0.1876615
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.5163978
+      value: 1
+      inSlope: -0.15506172
+      outSlope: -0.15506172
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.52323264
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.5307047
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.562313
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.75
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.7591935
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.79205096
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.8009469
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.88454086
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.8901232
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 0.979219
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0

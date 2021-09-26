@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 442f4eceee4474a4ba77bc91105f63a9, type: 3}
+  m_Name: Zombie Roaming
+  m_EditorClassIdentifier: 
+  _audioGroup: Zombies
+  _volume: 0.202
+  _spatialBlend: 1
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: 27afc77c65ba8824c97178962dc20e2d, type: 3}
+    - {fileID: 8300000, guid: f9362eea11499e64a8b68a7da6edc798, type: 3}
+    - {fileID: 8300000, guid: 9249532f3c593b040a543c9d47bce2db, type: 3}
+    - {fileID: 8300000, guid: 0baf4abd08cf04a4b82530f175a4cd8c, type: 3}
+    - {fileID: 8300000, guid: 13a493f5c0a26684a9503e3912b42084, type: 3}
+    - {fileID: 8300000, guid: 1c07329c4e5ea974aa5b933907aae687, type: 3}
+    - {fileID: 8300000, guid: 0a457a285fb334041aa1d7691cedb6a2, type: 3}
+    - {fileID: 8300000, guid: 6e13d7f8ced625448a2288578b2c33da, type: 3}
+    - {fileID: 8300000, guid: 14af8001386fc0941a4c2f5c6df2ab2a, type: 3}
+    - {fileID: 8300000, guid: 33576fca9ec3d6543bff36250c1ced2f, type: 3}
+    - {fileID: 8300000, guid: c0c841a37028ec145a37f99c3bdaac09, type: 3}

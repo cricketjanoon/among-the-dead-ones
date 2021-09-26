@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 442f4eceee4474a4ba77bc91105f63a9, type: 3}
+  m_Name: Zombie Screams
+  m_EditorClassIdentifier: 
+  _audioGroup: Zombies
+  _volume: 0.361
+  _spatialBlend: 1
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: 39808a75e41a49a40955eeb89517fd08, type: 3}
+  - Clips:
+    - {fileID: 8300000, guid: 3732ded5cb18d874c99ab7792794e206, type: 3}
